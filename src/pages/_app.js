@@ -1,5 +1,5 @@
 import '../styles/globals.css';
-import { Provider } from './Provider';
+import  Provider  from './Provider';
 import Navbar from '@components/layouts/Navbar';
 
 function MyApp({ Component, pageProps }) {
